@@ -1,0 +1,22 @@
+.car-t-container {
+    background: lightsalmon;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-left: 20px;
+    overflow: hidden;
+    position: sticky;
+    top: 0%;
+    text-align: start;
+    padding-left: 20px;
+}
+
+.cart {
+    position: sticky;
+    top: 0;
+    margin-left: 20px;
+    border-radius: 8px;
+    padding: 30px 20px;
+    height: 100vh;
+    background-color: #ffe0b3;
+}
